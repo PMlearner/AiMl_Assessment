@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+joblib
+openai
+numpy
+python-dotenv
+matplotlib
+seaborn
+fastapi
+uvicorn
